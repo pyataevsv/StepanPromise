@@ -1,0 +1,19 @@
+{
+  "name": "promise_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.13",
+    "cd": "^0.3.3"
+  }
+}
